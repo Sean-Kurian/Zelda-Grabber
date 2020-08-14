@@ -1,6 +1,4 @@
-// ECE243 Project
 // Kyle Blackie & Sean Kurian
-// Station #75
 
 #include <stdbool.h>
 #include <stdlib.h>	
